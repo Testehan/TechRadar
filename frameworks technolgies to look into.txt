@@ -1,0 +1,132 @@
+Priority is assigned to each item from 1 (highest) to 5 (lowest)
+
+Frontend
+4    TODO
+        React
+            https://www.udemy.com/course/the-ultimate-react-course/         get from fl :)
+            https://www.udacity.com/course/react-fundamentals--cd0546       PAID
+            https://www.udacity.com/course/react-native--cd0444             PAID
+
+Backed
+
+4    TODO
+        System design interview
+
+3    TODO
+        AWS courses
+            https://www.udacity.com/course/full-stack-apps-on-aws--cd0353       PAID
+            https://www.udacity.com/course/microservices-at-scale--cd12355      PAID
+            Udemy - Ultimate AWS Certified Developer Associate 2023 NEW DVAC02           get from fl :)
+
+5     TODO   Whenever you run into a problem with the course, maybe you can try and look over the videos of this other course:
+                https://www.youtube.com/watch?v=bO25vbkoJlA&list=PL7iMyoQPMtAN4xl6oWzafqJebfay7K8KP
+
+            TODO AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!
+                https://www.youtube.com/watch?v=NhDYbskXRgc&pp=ygUNYXdzIGxpZ2h0c2FpbA%3D%3D
+
+            TODO  Playlist about various AWS services
+                https://www.youtube.com/watch?v=W6jQmVi31Xk&list=PLwyXYwu8kL0wg9R_VMeXy0JiK5_c70IrV
+
+DONE        aws-certified-cloud-practitioner-new                                     Do this first
+
+
+
+2    TODO
+        https://en.wikipedia.org/wiki/GraphQL
+
+2    TODO
+        https://ktor.io/
+
+4    TODO
+        https://www.baeldung.com/rsocket
+
+4    TODO
+        Apache Spark
+            https://www.udacity.com/course/learn-spark-at-udacity--ud2002
+
+4    TODO
+        Intro to Hadoop and MapReduce
+            https://www.udacity.com/enrollment/ud617/1.0.1
+
+3    TODO
+        Kafka
+            https://www.udacity.com/course/data-ingestion-with-kafka-and-kafka-streaming--cd0236        PAID
+
+1    TODO
+        Java Web Developer
+            https://www.udacity.com/course/java-developer-nanodegree--nd035                 PAID
+                Spring boot and a lot of other uptodate usefull technologies
+
+4    TODO
+        HTTP and web servers (python)
+            https://www.udacity.com/course/http-web-servers--ud303
+
+3    TODO
+        Product Development
+            https://www.udacity.com/course/product-development--cd12366
+
+2    TODO
+        Managing freelancing projects           PAID
+            https://www.udacity.com/course/managing-freelancing-projects--cd0390#plans
+
+2    TODO
+        Digital Freelancer
+            https://www.udacity.com/course/digital-freelancer-nanodegree--nd083
+
+3    TODO
+        Identity Access Management              PAID
+            https://www.udacity.com/course/identity-access-management--cd0039
+
+3    TODO
+        Large Language Models (LLMs) & Text Generation
+            https://www.udacity.com/course/large-language-models-and-text-generation--cd13318           PAID
+
+2    TODO
+        Building Generative AI Solutions with Vector Databases
+            https://www.udacity.com/course/building-generative-ai-solutions-with-vector-databases--cd12952      PAID
+
+1    TODO
+        GitHub Copilot
+            https://www.udacity.com/course/github-copilot--cd12892                                      PAID
+
+3    TODO
+        How to Use ChatGPT Fluency
+            https://www.udacity.com/course/how-to-use-chatgpt--cd13054          PAID
+
+4    TODO
+        Intro to Deep Learning with PyTorch
+            https://www.udacity.com/course/deep-learning-pytorch--ud188
+
+4    TODO
+        Data Wrangling with MongoDB
+            https://www.udacity.com/course/data-wrangling-with-mongodb--ud032
+
+2    TODO
+        Scalable Microservices with Kubernetes
+            https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+
+    TODO But in a real-world example, you will need to use a dependency that also allows you to version your database
+     scripts. I recommend you look at Flyway (https://flywaydb.org/) and Liquibase
+     (https://www.liquibase.org/). These are two highly appreciated dependencies for database
+     schema versioning.
+        Maybe check these tools out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
