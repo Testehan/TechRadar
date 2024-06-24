@@ -1,0 +1,87 @@
+======================================================================================================
+Spring Security
+1    DONE
+        Spring security in action book
+
+3   TODO
+        Spring Security - playlist by the Author of the book "Spring security in action book"
+            https://www.youtube.com/watch?v=Of4HFbsPKqk&list=PLEocw3gLFc8XRaRBZkhBEZ_R3tmvfkWZz
+
+======================================================================================================
+Spring reactive
+
+    DONE    https://www.codeburps.com/post/spring-webflux-thymeleaf
+        Spring Reactive, Thymeleaf Hello World (Spring Webflux + Thymeleaf + JS/CSS)
+
+    TODO    https://youtu.be/EnUsNVHveyU?si=7CWj2uMFOZbdsMLV
+        Reactive Programming with Spring Boot | A Beginner's Guide
+
+    TODO    https://www.youtube.com/watch?v=en_YCpdxZuY&list=PLZ9NgFYEMxp5ro_KeGti_H8rudfivYK0c
+        Overview of Spring WebMVC and Spring WebFlux
+
+    TODO    https://youtu.be/bXcFCgQsvAE?si=WQ_vFzw4XCK5Tixt
+        Spring Boot | Reactive Programming Complete Tutorials for Beginners | JavaTechie
+
+    TODO    https://www.youtube.com/watch?v=1XaHqhAA5Sw&list=PLEocw3gLFc8W-w8QZbM8f955StBEiQjJk
+        Spring Reactive - Laur Spilca
+
+    TODO    https://www.youtube.com/watch?v=v0j-OFlYpDs&list=PLqq-6Pq4lTTYPR2oH7kgElMYZhJd4vOGI&index=31
+        Reactive programming with Java - full course
+
+    TODO    https://www.youtube.com/watch?v=KQDTtvZMS9c
+            Apache Kafka Tutorial with Spring Boot Reactive & WebFlux | Kafka Tutorial
+
+    TODO    https://youtu.be/229gPlcc5d8?si=hkxtB1wkMR5Waqo0
+        Reactive Spring Kotlin
+
+============================================================================================
+Spring websockets
+
+    DONE https://www.youtube.com/watch?v=TywlS9iAZCM
+        Spring boot & WebSockets: Build a Real-Time Chat App From Scratch
+
+    DONE https://refactorfirst.com/spring-boot-websockets-stomp-notifications
+
+    DONE https://medium.com/javarevisited/web-socket-with-spring-real-time-connections-made-easy-c5e3e869e455
+
+    TODO https://www.youtube.com/watch?v=7T-HnTE6v64
+        WebSocket Tutorial with Spring Boot | Build One On One Chat Application
+
+======================================================================================================
+Spring AI
+
+    DONE    https://www.youtube.com/watch?v=iKwuvuTxxK0
+        Semantic Search with Spring Boot: Building a Java-Powered Search Engine with Atlas Vector Search
+
+    DONE    Dr. Mark Pollack, lead of the new Spring AI project
+            https://www.youtube.com/watch?v=0P8UU5vkvI8
+
+    DONE    Spring into the AI Era: A Practical Exploration for Developers (Workshop)    ???
+            https://www.youtube.com/watch?v=QWgiOoB4OOU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
