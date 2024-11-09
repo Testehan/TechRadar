@@ -4,8 +4,16 @@ Frontend
 4    TODO
         React
             https://www.udemy.com/course/the-ultimate-react-course/         get from fl :)
-            https://www.udacity.com/course/react-fundamentals--cd0546       PAID
-            https://www.udacity.com/course/react-native--cd0444             PAID
+    DONE React Tutorial for Beginners
+            https://www.youtube.com/watch?v=SqcY0GlETPk
+    DONE Every React Concept Explained in 12 Minutes
+            https://www.youtube.com/watch?v=wIyHSOugGGw
+    DONE ALL React Hooks Explained in 12 Minutes
+            https://www.youtube.com/watch?v=LOH1l-MP_9k
+    DONE React Course - Beginner's Tutorial for React JavaScript Library [2022]
+            https://www.youtube.com/watch?v=bMknfKXIFA8
+        React 18 for Beginners codewithmosh
+            https://codewithmosh.com/p/ultimate-react-part1
 
 Backed
 
@@ -29,10 +37,6 @@ Backed
 
 DONE        aws-certified-cloud-practitioner-new                                     Do this first
 
-
-
-2    TODO
-        https://en.wikipedia.org/wiki/GraphQL
 
 2    TODO
         https://ktor.io/

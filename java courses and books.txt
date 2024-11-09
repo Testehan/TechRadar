@@ -59,17 +59,48 @@ Spring AI
     DONE    Spring into the AI Era: A Practical Exploration for Developers (Workshop)    ???
             https://www.youtube.com/watch?v=QWgiOoB4OOU
 
+    DONE    Spring Office Hours S3E22 - What's new in Spring AI 1.0.0 M1
+        https://www.youtube.com/watch?v=a6mgGDyDq5o
+
+    DONE    Building a ChatGPT Clone in Java with HTMX, Spring Boot, and Spring AI
+        https://www.youtube.com/watch?v=jJ63tedBAzI&list=PLDlFIbwqaTrGWkp7q0QQjGkuNORSLanqJ&index=3
+
+    DONE Getting Started with Ollama, Llama 3.1 and Spring AI
+        https://www.youtube.com/watch?v=dffEF9ORVUg
+
+    DONE Getting Started with Ollama and Web UI
+        https://www.youtube.com/watch?v=BzFafshQkWw
+
+    DONE Bootiful Artificial Intelligence (SpringOne 2024)
+        https://www.youtube.com/watch?v=N4ptoEo5gxY
+
+    TODO Spring AI Functions - How to register custom Java functions with the Chat Client
+        https://www.youtube.com/watch?v=n7IvE1VSbvI
+
+    DONE Using Multiple LLMs in Java with Spring AI
+        https://www.youtube.com/watch?v=bK1MTlEDQvk
+
+    DONE Conversational History in Java based Generative AI Applications
+        https://www.youtube.com/watch?v=6VdM1MOOMrw
+
+    Building a Streaming Chatbot with Spring Boot and Spring AI
+        https://www.youtube.com/watch?v=q2p0mG4RICM
+
+======================================================================================================
+Spring UI related
+
+    DONE    How to add Tailwind CSS to your Spring Boot Application
+        https://www.youtube.com/watch?v=6_6AIzxPXvQ
 
 
+============================================================================================
+GraphQL
 
+    DONE Spring Boot and GraphQL
+        https://www.youtube.com/watch?v=uNB2N_w_ypo
 
-
-
-
-
-
-
-
+    DONE Build GraphQL Services With Spring Boot Like Netflix (SpringOne 2024)
+        https://www.youtube.com/watch?v=DYZEkOsiPY0
 
 
 
